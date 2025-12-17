@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Miguel",
+    "email": "miguel",
+    "passware": "123456"
+  },
+  {
+    "name": "Miguel",
+    "email": "miguel",
+    "passware": "1234"
+  },
+  {
+    "name": "perro",
+    "email": "gato",
+    "passware": "12"
+  },
+  {
+    "name": "Miguel",
+    "email": "miguel123456",
+    "passware": "123456"
+  },
+  {
+    "name": "Miguel",
+    "email": "miguel",
+    "passware": "123456"
+  },
+  {
+    "email": "miguel",
+    "passware": "1234"
+  },
+  {
+    "email": "miguel",
+    "passware": "1234"
+  },
+  {
+    "email": "carlos",
+    "passware": "1234"
+  },
+  {
+    "email": "carlos",
+    "passware": "1234"
+  },
+  {
+    "email": "carlos",
+    "passware": "1234"
+  },
+  {
+    "email": "miguel@gmail.com",
+    "passware": "1234"
+  }
+]
